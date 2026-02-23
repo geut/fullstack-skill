@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-writing-best-practices": {
+      "source": "sergiodxa/agent-skills",
+      "sourceType": "github",
+      "computedHash": "a8e83c99f7648e11f21a730b6467374917ae42878881b05c8d6051a6d4c4ce18"
+    }
+  }
+}

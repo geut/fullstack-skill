@@ -1,17 +1,17 @@
 ---
 title: Coding Style
 impact: LOW-MEDIUM
-tags: [code, clarity, maintenance, style]
+tags: [code, maintenance, style]
 ---
-# Frontend Coding Style
+# Fullstack Coding Style
 
 This is an on-purpose "general" rule. Write code that is easily readable for humans. 
 
 ## Why
 
-- Code is read more than written. 
-- Readable code helps to maintain it. 
-- This is helpful in case the humans around the project need to inspect the codebase at any point. 
+- **Easy to read code**: Code is read more than written. 
+- **Maintainability**:Readable code helps to maintain it. 
+- **Debugging**: This is helpful in case the humans around the project need to inspect the codebase at any point. 
 
 ## Avoid Unnecessary Complex Components
 

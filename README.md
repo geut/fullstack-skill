@@ -1,8 +1,8 @@
-# GEUT/frontend-agent-skills
+# GEUT/fullstack-skill
 
 GEUT Frontend Best Practices Skills. Helps you create simple, readable and maintainable React applications.
 
 ## Install
 
-`npx skills add geut/fe-skills`
+`npx skills add geut/fullstack-skill`
 

@@ -157,7 +157,3 @@ Use Oxlint and Oxfmt as fast Rust-based alternatives to ESLint/Prettier. 50-100x
 }
 ```
 
-## Full Compiled Document
-
-For the complete guide with all rules expanded: `AGENTS.md`
-
